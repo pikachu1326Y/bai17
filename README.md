@@ -1,27 +1,24 @@
 <html lang="en">
  <style>
       h1 {color : white;
-      background-color: blue;
-      border : 70px solid blue
+      background-color: aquamarine;
+      border : 70px solid white
 	}
-	h2 {color : blue;
+	h2 {color : aquamarine;
 	background-color: white;
 	border : 10px solid back
 	}
         .container { display: flex;
-	background-color: blue; 
+	background-color: aquamarine; 
         }
         .item { flex: 1;
-            border: 1px solid pink;
+            border: 1px solid aquamarine;
             padding: 10px;
 	    color: black;
         }
     </style>
 
   <body>
-   
-      style=background-color:powerblue;
-   
  
   <h1>Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
     <p style="color: blue;">Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</p>
