@@ -15,17 +15,17 @@
  <h1> Vận dụng 1: Tìm hiểu thêm các dạng pseudo-class khác, nêu ý nghĩa và tìm ví dụ ứng dụ thực tế cho các kiểu bộ chọn này</h1>
    <p>Các trạng thái của phần tử input:
 
-checked: được chọn (type=checkbox)
+•checked: được chọn (type=checkbox)
 
-focus: được chọn (type=text)
+•focus: được chọn (type=text)
 
-enabled: sẵn sàng nhập dữ liệu
+•enabled: sẵn sàng nhập dữ liệu
 
-disabled: vô hiệu hóa phần tử input
+•disabled: vô hiệu hóa phần tử input
 
-valid: có hiệu lực
+•valid: có hiệu lực
 
-invalid: không có hiệu lực</p>
+•invalid: không có hiệu lực</p>
  <img src="![124](https://github.com/user-attachments/assets/984f14a6-9af9-47bb-81b5-430a704e2265)" width="831" height="227" alt="Ảnh minh họa">
 
 input:checked {height: 50px; width: 50px;}
@@ -86,11 +86,11 @@ Country: <input type="text" disabled="disabled" value="Viet Nam"><br><br>
  <h1> Vận dụng 2: Tìm hiểu thêm các dạng pseuso-element khác, nêu ý nghĩa và tìm ví dụ ứng dụng thực tế cho các kiểu bộ chọn này.</h1>
  <p>Các phần tử giả:
 
-before: thành phần phía trước
+•before: thành phần phía trước
 
-after: thành phần phía sau
+•after: thành phần phía sau
 
-marker: thành phần đánh dấu</p>
+•marker: thành phần đánh dấu</p>
 <img src="![126](https://github.com/user-attachments/assets/53adabaa-57ce-4366-aabe-89a376203434)" width="447" height="467" alt="Ảnh minh họa">
  <p><style>
 
