@@ -27,6 +27,9 @@ disabled: vô hiệu hóa phần tử input
 valid: có hiệu lực
 
 invalid: không có hiệu lực</p>
+ <img src="![124](https://github.com/user-attachments/assets/984f14a6-9af9-47bb-81b5-430a704e2265)
+
+" width="831" height="227" alt="Luyện tập 1">
  <p><style>
 
 input:checked {height: 50px; width: 50px;}
