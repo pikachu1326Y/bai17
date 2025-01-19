@@ -1,7 +1,10 @@
 <html lang="en">
 
   <body>
-   style=background-color:powerblue;
+    <style>  
+      style=background-color:powerblue;
+    </style>
+ 
   <h1>Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
     <h2>Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</h2>
   <p> #p123 + p {color: red;} </p> 
