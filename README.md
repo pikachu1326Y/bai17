@@ -1,5 +1,7 @@
 <html lang="en">
-<style typle="text/css">
+<style>
+ typle="text/css"
+ body style=background-color:powerblue;
  
 </style>
 
