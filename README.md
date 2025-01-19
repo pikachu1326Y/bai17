@@ -1,10 +1,8 @@
 <html>
- <head>
-<title>Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</title>
- </head>
+
   <body>
   <h1>Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
-  <h2>Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</h2>
+    <h2>Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</h2>
   <p> #p123 + p {color: red;} </p> 
 
 <p> h2#p123 + p {color: red;}</p>  
@@ -12,12 +10,12 @@
 
   <p>•h2#p123 + p {color: red;}: áp dụng cho phần tử p với điều kiện phần tử p nằm ngay sau phần tử h2 có mã định danh #p123</p>
 
-  <h2>Luyện tập 2:Trong phần Thực hành, các tên riêng (tên người, tên tổ chức) cần được bổ sung định dạng đóng khung và in nghiêng. Em sẽ thực hiện các yêu cầu này như thế nào?</h2>
+    <h2>Luyện tập 2:Trong phần Thực hành, các tên riêng (tên người, tên tổ chức) cần được bổ sung định dạng đóng khung và in nghiêng. Em sẽ thực hiện các yêu cầu này như thế nào?</h2>
    <p>• Đưa các tên riêng vào thẻ < em>... < / em > </p>
 
    <p>• Tạo mẫu định dạng CSS cho phần tử < em >: em {font-style: italic; border: 1px solid blue;}</p>
 
- <h2> Vận dụng 1: Tìm hiểu thêm các dạng pseudo-class khác, nêu ý nghĩa và tìm ví dụ ứng dụ thực tế cho các kiểu bộ chọn này</h2>
+   <h2> Vận dụng 1: Tìm hiểu thêm các dạng pseudo-class khác, nêu ý nghĩa và tìm ví dụ ứng dụ thực tế cho các kiểu bộ chọn này</h2>
      <p>Các trạng thái của phần tử input:</p>
 
      <p>•checked: được chọn (type=checkbox)</p>
@@ -89,7 +87,7 @@ Country: <input type="text" disabled="disabled" value="Viet Nam"><br><br>
 
 </html></p>
 
- <h2> Vận dụng 2: Tìm hiểu thêm các dạng pseuso-element khác, nêu ý nghĩa và tìm ví dụ ứng dụng thực tế cho các kiểu bộ chọn này.</h2>
+   <h2> Vận dụng 2: Tìm hiểu thêm các dạng pseuso-element khác, nêu ý nghĩa và tìm ví dụ ứng dụng thực tế cho các kiểu bộ chọn này.</h2>
  <p>Các phần tử giả:</p>
 
  <p>•before: thành phần phía trước</p>
