@@ -98,14 +98,14 @@ Country: <input type="text" disabled="disabled" value="Viet Nam"><br><br>
 
  <p>•marker: thành phần đánh dấu</p>
 
+<p><style></p>
+<p>h1::before {content: url(smiley.gif);}</p>
 
-h1::before {content: url(smiley.gif);}
+<p>h1::after {content: url(smiley.gif);}</p>
 
-h1::after {content: url(smiley.gif);}
+<p>::marke {color: red; font-size: 23px;}</p>
 
-::marke {color: red; font-size: 23px;}
-
-</style></p>
+<p></style></p>
 <h2>Giải</h2>
 <img src="126.png" width="447" height="467" alt="Ảnh minh họa">
  <p><style>
