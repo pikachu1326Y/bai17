@@ -23,11 +23,11 @@
       style=background-color:powerblue;
     </style>
  
-  <h1 style=color: blue;">Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
-    <h2>Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</h2>
-  <p style="color: red;"> #p123 + p {color: red;} </p> 
+  <h1>Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
+    <p style=color: blue;">Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</p>
+     <p> #p123 + p {color: red;} </p> 
 
-<p> h2#p123 + p {color: red;}</p>  
+     <p> h2#p123 + p {color: red;}</p>  
    <p>• #p123 + p {color: red;} : áp dụng cho phần tử p với điều kiện phần tử p nằm ngay sau phần tử bất kì có mã định danh #p123</p>
 
   <p>•h2#p123 + p {color: red;}: áp dụng cho phần tử p với điều kiện phần tử p nằm ngay sau phần tử h2 có mã định danh #p123</p>
