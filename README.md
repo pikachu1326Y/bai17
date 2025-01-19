@@ -103,7 +103,7 @@ h1::after {content: url(smiley.gif);}
 
 </style></p>
 <h2>Giải</h2>
-<img src="![126](https://github.com/user-attachments/assets/53adabaa-57ce-4366-aabe-89a376203434)" width="447" height="467" alt="Ảnh minh họa">
+<img src="126.png" width="447" height="467" alt="Ảnh minh họa">
  <p><style>
 <p><html>
 
