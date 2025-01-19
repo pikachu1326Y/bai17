@@ -90,13 +90,13 @@ Country: <input type="text" disabled="disabled" value="Viet Nam"><br><br>
 </html></p>
 
  <h1> Vận dụng 2: Tìm hiểu thêm các dạng pseuso-element khác, nêu ý nghĩa và tìm ví dụ ứng dụng thực tế cho các kiểu bộ chọn này.</h1>
- <p>Các phần tử giả:
+ <p>Các phần tử giả:</p>
 
-•before: thành phần phía trước
+ <p>•before: thành phần phía trước</p>
 
-•after: thành phần phía sau
+ <p>•after: thành phần phía sau</p>
 
-•marker: thành phần đánh dấu</p>
+ <p>•marker: thành phần đánh dấu</p>
 
 
 h1::before {content: url(smiley.gif);}
