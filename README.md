@@ -2,7 +2,7 @@
 <style>
       h1 {color : white;
       background-color: #ff7675;
-      border : 70px solid #0984e3
+      border : 70px solid; color: #b2bec3
 	}
 </style>
 
