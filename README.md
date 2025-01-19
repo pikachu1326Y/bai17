@@ -28,7 +28,7 @@ h2#p123 + p {color: red;}</p>
 •valid: có hiệu lực
 
 •invalid: không có hiệu lực</p>
- <img src="![124](https://github.com/user-attachments/assets/984f14a6-9af9-47bb-81b5-430a704e2265)" width="831" height="227" alt="Ảnh minh họa">
+ <img src="124.png" width="831" height="227" alt="Ảnh minh họa">
 
 input:checked {height: 50px; width: 50px;}
 
