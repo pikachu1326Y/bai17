@@ -33,17 +33,18 @@
 
  <img src="124.png" width="831" height="227" alt="Ảnh minh họa">
 
-input:checked {height: 50px; width: 50px;}
+<p><style></p>
+<p>input:checked {height: 50px; width: 50px;}</p>
 
-input: valid {background-color: yellow;}
+<p>input: valid {background-color: yellow;}</p>
 
-input: invalid {background-color: magenta;}
+<p>input: invalid {background-color: magenta;}</p>
 
-input[type=text]: enabled {background: cyan;}
+<p>input[type=text]: enabled {background: cyan;}</p>
 
-input[type=text]: disabled {background: silver;}
+<p>input[type=text]: disabled {background: silver;}</p>
 
-</style></p>
+<p></style></p>
 <h2>Giải</h2>
 <img src="125.png" width="713" height="425" alt="Ảnh minh họa">
 <p><html>
