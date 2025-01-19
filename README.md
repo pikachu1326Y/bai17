@@ -2,11 +2,7 @@
 <style typle="text/css">
  
 </style>
- <head>
 
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
- </head>
   <body>
   <h1>Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
     <h2>Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</h2>
