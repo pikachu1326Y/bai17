@@ -1,14 +1,13 @@
 <html lang="en">
 <style>
       h1 {color : white;
-      background-color: #ff7675;
-      border : 70px solid; color: #b2bec3
+      border : 70px solid #ff7675
 	}
 </style>
 
   <body>
  
-  <h1>Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
+ <p style="color: #d63031;">Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</p>
     <p style="color: blue; font-weight: bold;">Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</p>
      <p> #p123 + p {color: red;} </p> 
 
