@@ -1,9 +1,10 @@
 <html lang="en">
 <style>
  typle="text/css"
- <body style=background-color:powerblue;>
+
  
 </style>
+ <body style=background-color:powerblue;>
 
   <body>
   <h1>Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
