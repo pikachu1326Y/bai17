@@ -4,8 +4,7 @@
  </head>
   <body>
   <h1>Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</h1>
-    <img src="![ca714c339f8e23d07a9f](https://github.com/user-attachments/assets/b5c7e8b3-b3c3-46e8-9991-9292dec0bcc8)
-" width="1062" height="395" alt="Luyện tập 1">
+    <img src="![ca714c339f8e23d07a9f](https://github.com/user-attachments/assets/b5c7e8b3-b3c3-46e8-9991-9292dec0bcc8)" width="1062" height="395" alt="Luyện tập 1">
   <p>• #p123 + p {color: red;} : áp dụng cho phần tử p với điều kiện phần tử p nằm ngay sau phần tử bất kì có mã định danh #p123
 
 •h2#p123 + p {color: red;}: áp dụng cho phần tử p với điều kiện phần tử p nằm ngay sau phần tử h2 có mã định danh #p123</p>
@@ -27,9 +26,7 @@ disabled: vô hiệu hóa phần tử input
 valid: có hiệu lực
 
 invalid: không có hiệu lực</p>
- <img src="![124](https://github.com/user-attachments/assets/984f14a6-9af9-47bb-81b5-430a704e2265)
-
-" width="831" height="227" alt="Ảnh minh họa">
+ <img src="![124](https://github.com/user-attachments/assets/984f14a6-9af9-47bb-81b5-430a704e2265)" width="831" height="227" alt="Ảnh minh họa">
 
 input:checked {height: 50px; width: 50px;}
 
@@ -43,9 +40,7 @@ input[type=text]: disabled {background: silver;}
 
 </style></p>
 <h2>Giải</h2>
-<img src="![125 html](https://github.com/user-attachments/assets/a26a30a3-52a1-4e55-ac2a-c8cb0a00c18c)
-
-" width="713" height="425" alt="Ảnh minh họa">
+<img src="![125 html](https://github.com/user-attachments/assets/a26a30a3-52a1-4e55-ac2a-c8cb0a00c18c)" width="713" height="425" alt="Ảnh minh họa">
 <p><html>
 
 <head>
@@ -96,6 +91,7 @@ before: thành phần phía trước
 after: thành phần phía sau
 
 marker: thành phần đánh dấu</p>
+<img src="![126](https://github.com/user-attachments/assets/53adabaa-57ce-4366-aabe-89a376203434)" width="447" height="467" alt="Ảnh minh họa">
  <p><style>
 
 h1::before {content: url(smiley.gif);}
