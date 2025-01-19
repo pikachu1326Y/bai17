@@ -11,11 +11,6 @@
         .container { display: flex;
 	background-color: aquamarine; 
         }
-        .item { flex: 1;
-            border: 1px solid aquamarine;
-            padding: 10px;
-	    color: black;
-        }
     </style>
 
   <body>
