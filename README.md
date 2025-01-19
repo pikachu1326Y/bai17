@@ -23,7 +23,7 @@
       style=background-color:powerblue;
     </style>
  
-  <h1>Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
+  <h1 style=color: blue;">Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
     <h2>Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</h2>
   <p style="color: red;"> #p123 + p {color: red;} </p> 
 
