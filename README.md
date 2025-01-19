@@ -4,12 +4,13 @@
  </head>
   <body>
   <h1>Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</h1>
-  <p> #p123 + p {color: red;} 
+  <p> #p123 + p {color: red;} </p> 
 
-h2#p123 + p {color: red;}</p>  
-  <p>• #p123 + p {color: red;} : áp dụng cho phần tử p với điều kiện phần tử p nằm ngay sau phần tử bất kì có mã định danh #p123
+<p> h2#p123 + p {color: red;}</p>  
+   <p>• #p123 + p {color: red;} : áp dụng cho phần tử p với điều kiện phần tử p nằm ngay sau phần tử bất kì có mã định danh #p123</p>
 
-•h2#p123 + p {color: red;}: áp dụng cho phần tử p với điều kiện phần tử p nằm ngay sau phần tử h2 có mã định danh #p123</p>
+  <p>•h2#p123 + p {color: red;}: áp dụng cho phần tử p với điều kiện phần tử p nằm ngay sau phần tử h2 có mã định danh #p123</p>
+
   <h1>Luyện tập 2:Trong phần Thực hành, các tên riêng (tên người, tên tổ chức) cần được bổ sung định dạng đóng khung và in nghiêng. Em sẽ thực hiện các yêu cầu này như thế nào?</h1>
   <p>• Đưa các tên riêng vào thẻ <em> </em>
 
