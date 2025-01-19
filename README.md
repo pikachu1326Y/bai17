@@ -130,7 +130,7 @@ h1::after {content: url(smiley.gif);}
 
 <body>
 
-<h1 style="background-color: orange;">This is a heading</h1>
+<h1 style="background-color: #fdcb6e;">This is a heading</h1>
 
 <ul>
 
