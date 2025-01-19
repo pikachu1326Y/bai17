@@ -1,6 +1,6 @@
 <html>
  <head>
-     <title>Bài 17: Các mức ưu tiên của bộ</title>
+<title>Bài 17: Các mức ưu tiên của bộ</title>
  </head>
   <body>
   <h1>Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</h1>
