@@ -1,4 +1,10 @@
 <html lang="en">
+<style>
+      h1 {color : white;
+      background-color: #ff7675;
+      border : 70px solid #0984e3
+	}
+</style>
 
   <body>
  
