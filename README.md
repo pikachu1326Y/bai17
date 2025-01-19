@@ -29,8 +29,7 @@ valid: có hiệu lực
 invalid: không có hiệu lực</p>
  <img src="![124](https://github.com/user-attachments/assets/984f14a6-9af9-47bb-81b5-430a704e2265)
 
-" width="831" height="227" alt="Luyện tập 1">
- <p><style>
+" width="831" height="227" alt="Ảnh minh họa">
 
 input:checked {height: 50px; width: 50px;}
 
@@ -44,6 +43,9 @@ input[type=text]: disabled {background: silver;}
 
 </style></p>
 <h2>Giải</h2>
+<img src="![125 html](https://github.com/user-attachments/assets/a26a30a3-52a1-4e55-ac2a-c8cb0a00c18c)
+
+" width="713" height="425" alt="Ảnh minh họa">
 <p><html>
 
 <head>
