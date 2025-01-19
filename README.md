@@ -42,7 +42,7 @@ input[type=text]: disabled {background: silver;}
 
 </style></p>
 <h2>Giải</h2>
-<img src="![125 html](https://github.com/user-attachments/assets/a26a30a3-52a1-4e55-ac2a-c8cb0a00c18c)" width="713" height="425" alt="Ảnh minh họa">
+<img src="125.png" width="713" height="425" alt="Ảnh minh họa">
 <p><html>
 
 <head>
