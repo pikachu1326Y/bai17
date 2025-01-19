@@ -1,15 +1,15 @@
 <html lang="en">
  <style>
       h1 {color : white;
-      background-color: pink;
-      border : 70px solid pink
+      background-color: blue;
+      border : 70px solid blue
 	}
-	h2 {color : pink;
+	h2 {color : blue;
 	background-color: white;
 	border : 10px solid back
 	}
         .container { display: flex;
-	background-color: pink; 
+	background-color: blue; 
         }
         .item { flex: 1;
             border: 1px solid pink;
@@ -19,9 +19,9 @@
     </style>
 
   <body>
-    <style>  
+   
       style=background-color:powerblue;
-    </style>
+   
  
   <h1>Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
     <p style=color: blue;">Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</p>
