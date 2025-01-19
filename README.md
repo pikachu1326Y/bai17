@@ -17,19 +17,20 @@
    <p>• Tạo mẫu định dạng CSS cho phần tử < em >: em {font-style: italic; border: 1px solid blue;}</p>
 
  <h1> Vận dụng 1: Tìm hiểu thêm các dạng pseudo-class khác, nêu ý nghĩa và tìm ví dụ ứng dụ thực tế cho các kiểu bộ chọn này</h1>
-   <p>Các trạng thái của phần tử input:
+     <p>Các trạng thái của phần tử input:</p>
 
-•checked: được chọn (type=checkbox)
+<p>•checked: được chọn (type=checkbox)</p>
 
-•focus: được chọn (type=text)
+<p>•focus: được chọn (type=text</p>
 
-•enabled: sẵn sàng nhập dữ liệu
+<p>•enabled: sẵn sàng nhập dữ liệu</p>
 
-•disabled: vô hiệu hóa phần tử input
+<p>•disabled: vô hiệu hóa phần tử input</p>
 
-•valid: có hiệu lực
+<p>•valid: có hiệu lực</p>
 
-•invalid: không có hiệu lực</p>
+<p>•invalid: không có hiệu lực</p>
+
  <img src="124.png" width="831" height="227" alt="Ảnh minh họa">
 
 input:checked {height: 50px; width: 50px;}
