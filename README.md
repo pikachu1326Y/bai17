@@ -1,4 +1,22 @@
 <html lang="en">
+ <style>
+      h1 {color : white;
+      background-color: pink;
+      border : 70px solid pink
+	}
+	h2 {color : pink;
+	background-color: white;
+	border : 10px solid back
+	}
+        .container { display: flex;
+	background-color: pink; 
+        }
+        .item { flex: 1;
+            border: 1px solid pink;
+            padding: 10px;
+	    color: black;
+        }
+    </style>
 
   <body>
     <style>  
