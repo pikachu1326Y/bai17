@@ -6,7 +6,7 @@
   <h1>Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</h1>
   <p> #p123 + p {color: red;} 
 
-     h2#p123 + p {color: red;}</p>  
+h2#p123 + p {color: red;}</p>  
   <p>• #p123 + p {color: red;} : áp dụng cho phần tử p với điều kiện phần tử p nằm ngay sau phần tử bất kì có mã định danh #p123
 
 •h2#p123 + p {color: red;}: áp dụng cho phần tử p với điều kiện phần tử p nằm ngay sau phần tử h2 có mã định danh #p123</p>
