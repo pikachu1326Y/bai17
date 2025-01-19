@@ -1,9 +1,4 @@
 <html lang="en">
-<style>
- typle="text/css"
-
- 
-</style>
  <body style=background-color:powerblue;>
 
   <body>
