@@ -24,7 +24,7 @@
    
  
   <h1>Bài 17: CÁC MỨC ƯU TIÊN CỦA BỘ</h1>
-    <p style=color: blue;">Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</p>
+    <p style="color: blue;">Luyện tập 1: Giải thích sự khác nhau giữa hai định dạng sau:</p>
      <p> #p123 + p {color: red;} </p> 
 
      <p> h2#p123 + p {color: red;}</p>  
