@@ -1,6 +1,6 @@
 <html lang="en">
 <style>
-      color: #d63031;
+      h1{color: #d63031;
       border : 70px solid #ff7675
 	}
 </style>
