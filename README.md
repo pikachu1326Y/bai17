@@ -1,17 +1,4 @@
 <html lang="en">
- <style>
-      h1 {color : white;
-      background-color: aquamarine;
-      border : 70px solid white
-	}
-	h2 {color : aquamarine;
-	background-color: white;
-	border : 10px solid back
-	}
-        .container { display: flex;
-	background-color: aquamarine; 
-        }
-    </style>
 
   <body>
  
