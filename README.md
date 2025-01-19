@@ -19,17 +19,17 @@
  <h1> Vận dụng 1: Tìm hiểu thêm các dạng pseudo-class khác, nêu ý nghĩa và tìm ví dụ ứng dụ thực tế cho các kiểu bộ chọn này</h1>
      <p>Các trạng thái của phần tử input:</p>
 
-<p>•checked: được chọn (type=checkbox)</p>
+     <p>•checked: được chọn (type=checkbox)</p>
 
-<p>•focus: được chọn (type=text</p>
+     <p>•focus: được chọn (type=text</p>
 
-<p>•enabled: sẵn sàng nhập dữ liệu</p>
+     <p>•enabled: sẵn sàng nhập dữ liệu</p>
 
-<p>•disabled: vô hiệu hóa phần tử input</p>
+     <p>•disabled: vô hiệu hóa phần tử input</p>
 
-<p>•valid: có hiệu lực</p>
+     <p>•valid: có hiệu lực</p>
 
-<p>•invalid: không có hiệu lực</p>
+     <p>•invalid: không có hiệu lực</p>
 
  <img src="124.png" width="831" height="227" alt="Ảnh minh họa">
 
