@@ -93,8 +93,7 @@ Country: <input type="text" disabled="disabled" value="Viet Nam"><br><br>
 •after: thành phần phía sau
 
 •marker: thành phần đánh dấu</p>
-<img src="![126](https://github.com/user-attachments/assets/53adabaa-57ce-4366-aabe-89a376203434)" width="447" height="467" alt="Ảnh minh họa">
- <p><style>
+
 
 h1::before {content: url(smiley.gif);}
 
@@ -104,6 +103,8 @@ h1::after {content: url(smiley.gif);}
 
 </style></p>
 <h2>Giải</h2>
+<img src="![126](https://github.com/user-attachments/assets/53adabaa-57ce-4366-aabe-89a376203434)" width="447" height="467" alt="Ảnh minh họa">
+ <p><style>
 <p><html>
 
 <head>
