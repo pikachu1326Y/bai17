@@ -93,7 +93,7 @@ Country: <input type="text" disabled="disabled" value="Viet Nam"><br><br>
 
 </html></p>
 
-   <p style="color: blue; font-weight: bold;"> Vận dụng 2: Tìm hiểu thêm các dạng pseuso-element khác, nêu ý nghĩa và tìm ví dụ ứng dụng thực tế cho các kiểu bộ chọn này.</p>
+   <p style="color: #009432; font-weight: bold;"> Vận dụng 2: Tìm hiểu thêm các dạng pseuso-element khác, nêu ý nghĩa và tìm ví dụ ứng dụng thực tế cho các kiểu bộ chọn này.</p>
  <p>Các phần tử giả:</p>
 
  <p>•before: thành phần phía trước</p>
