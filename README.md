@@ -1,7 +1,7 @@
 <html lang="en">
 <style>
-      h1{color: #d63031;
-      border : 70px solid #ff7675
+      h1{color: #badc58;
+      border : 70px solid #6ab04c
 	}
 </style>
 
@@ -107,7 +107,7 @@ Country: <input type="text" disabled="disabled" value="Viet Nam"><br><br>
 
 <p>h1::after {content: url(smiley.gif);}</p>
 
-<p>::marke {color: red; font-size: 23px;}</p>
+<p>::marke {color: #6ab04c; font-size: 23px;}</p>
 
 <p></style></p>
 <img src="126.png" width="447" height="467" alt="Ảnh minh họa">
@@ -122,7 +122,7 @@ h1::before {content: url(smiley.gif);}
 
 h1::after {content: url(smiley.gif);}
 
-::marker {color: red; font-size: 23px;}
+::marker {color: #6ab04c; font-size: 23px;}
 
 </style>
 
@@ -130,7 +130,7 @@ h1::after {content: url(smiley.gif);}
 
 <body>
 
-<h1 style="background-color: #fdcb6e;">This is a heading</h1>
+<h1 style="background-color: #6ab04c;">This is a heading</h1>
 
 <ul>
 
