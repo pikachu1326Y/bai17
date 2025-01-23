@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <style>
       h1{color: #009432;
